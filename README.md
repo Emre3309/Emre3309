@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emre3309
 - 👀 I’m interested in Java, Python, Photoshop.
 - 🌱 I’m currently learning Java, Pyhton, Photoshop
-. 📫 How to reach me Mail : mehmetemre1507@outlook.com, İnstagram : m_emre3309, LinkedIn : https://www.linkedin.com/in/mehmet-emre-sinekli-15685824a/
+- 📫 How to reach me Mail : mehmetemre1507@outlook.com, İnstagram : m_emre3309, LinkedIn : https://www.linkedin.com/in/mehmet-emre-sinekli-15685824a/
 
 <!---
 Emre3309/Emre3309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
