@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emre3309
-- 👀 I’m interested in Java, Python, Photoshop.
-- 🌱 I’m currently learning Java, Pyhton, Photoshop
-- 📫 How to reach me Mail : mehmetemre1507@outlook.com, İnstagram : m_emre3309, LinkedIn : www.linkedin.com/in/emrenin-mekan
+- 👀 I’m interested in Java, Python, Photoshop, İllustrator.
+- 🌱 I’m currently learning Java, Pyhton, Photoshop, İllustrator.
+- 📫 How to reach me Mail : mehmetemre1507@outlook.com, İnstagram : m_emre3309, LinkedIn : https://www.linkedin.com/in/mçg-mehmetemre/
 
 
 <!---
